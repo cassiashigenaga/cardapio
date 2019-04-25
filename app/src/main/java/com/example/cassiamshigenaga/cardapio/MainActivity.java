@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void botaoPratosQuentes(View view) {
-        tituloDaActivity = "Beringela";
+        tituloDaActivity = "Berinjela";
         Intent intent = new Intent(this, Cardapio2.class);
         intent.putExtra(TITULO, tituloDaActivity);
         startActivity(intent);
