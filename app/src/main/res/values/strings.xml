@@ -2,6 +2,5 @@
     <string name="app_name">Cardápio</string>
     <string name="btn_botao">Botão</string>
     <string name="titulo">Título da tela</string>
-    <string name="tvItem1"> ITEM 1</string>
-    <string name="tvItem2"> ITEM 2</string>
+
 </resources>
